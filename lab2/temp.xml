@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bank>
+    <deposit id="1">
+        <name>Some1</name>
+        <country>Some1</country>
+        <type>estimated</type>
+        <depositor>Some1</depositor>
+        <accountId>1</accountId>
+        <amountOnDeposit>1000</amountOnDeposit>
+        <profitability>1</profitability>
+        <timeConstraints>1</timeConstraints>
+    </deposit>
+    <deposit id="2">
+        <name>Some2</name>
+        <country>Some2</country>
+        <type>accumulative</type>
+        <depositor>Some2</depositor>
+        <accountId>2</accountId>
+        <amountOnDeposit>2000</amountOnDeposit>
+        <profitability>2</profitability>
+        <timeConstraints>2</timeConstraints>
+    </deposit>
+    <deposit id="3">
+        <name>Some3</name>
+        <country>Some3</country>
+        <type>metallic</type>
+        <depositor>Some3</depositor>
+        <accountId>3</accountId>
+        <amountOnDeposit>3000</amountOnDeposit>
+        <profitability>3</profitability>
+        <timeConstraints>3</timeConstraints>
+    </deposit>
+    <deposit id="4">
+        <name>Some4</name>
+        <country>Some4</country>
+        <type>savings</type>
+        <depositor>Some4</depositor>
+        <accountId>4</accountId>
+        <amountOnDeposit>4000</amountOnDeposit>
+        <profitability>4</profitability>
+        <timeConstraints>4</timeConstraints>
+    </deposit>
+    <deposit id="5">
+        <name>Some5</name>
+        <country>Some5</country>
+        <type>urgent</type>
+        <depositor>Some5</depositor>
+        <accountId>5</accountId>
+        <amountOnDeposit>5000</amountOnDeposit>
+        <profitability>5</profitability>
+        <timeConstraints>5</timeConstraints>
+    </deposit>
+</Bank>

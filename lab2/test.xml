@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bank>
+    <deposit id="1">
+        <name>dep1</name>
+        <country>dep1</country>
+        <type>urgent</type>
+        <depositor>dep1</depositor>
+        <accountId>1</accountId>
+        <amountOnDeposit>1</amountOnDeposit>
+        <profitability>1</profitability>
+        <timeConstraints>1</timeConstraints>
+    </deposit>
+    <deposit id="2">
+        <name>dep2</name>
+        <country>dep2</country>
+        <type>urgent</type>
+        <depositor>dep2</depositor>
+        <accountId>2</accountId>
+        <amountOnDeposit>2</amountOnDeposit>
+        <profitability>2</profitability>
+        <timeConstraints>2</timeConstraints>
+    </deposit>
+    <deposit id="3">
+        <name>dep3</name>
+        <country>dep3</country>
+        <type>urgent</type>
+        <depositor>dep3</depositor>
+        <accountId>3</accountId>
+        <amountOnDeposit>3</amountOnDeposit>
+        <profitability>3</profitability>
+        <timeConstraints>3</timeConstraints>
+    </deposit>
+</Bank>
